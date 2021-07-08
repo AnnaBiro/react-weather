@@ -30,8 +30,12 @@ export default function Weatherinfo(props){
             <li>Wind: {props.data.wind} km/h</li>
           </ul>
         </div>
-      </div>)
+      </div>
     </div>
-  );}
+  );
+}
+
+    
+  
   
   
