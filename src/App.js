@@ -17,8 +17,6 @@ import Weather from './Weather';
      </a>
      </footer>
       </div>
-    
-     
     </div>
   );
 }
